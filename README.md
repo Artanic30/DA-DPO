@@ -1,7 +1,7 @@
 <div align="center">
   <h2>DA-DPO: Cost-efficient Difficulty-aware Preference Optimization for Reducing MLLM Hallucination</h2>
 
-  <h2>NeurIPs 2025</h2>
+  <h2>TMLR 2025</h2>
 
 
 </div>
