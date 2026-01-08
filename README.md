@@ -13,7 +13,7 @@ This repository contains the reference code for the paper [NoisyGRPO: Incentiviz
 
 [🎯 Project web page](https://artanic30.github.io/project_pages/DA-DPO/) |
 
-[//]: # ([Paper]&#40;https://arxiv.org/pdf/2510.21122&#41; |)
+[Paper](https://arxiv.org/abs/2601.00623) |
 
 [//]: # ([🤗 HuggingFace Model]&#40;https://huggingface.co/collections/Artanic30/noisygrpo&#41; |)
 
@@ -67,24 +67,15 @@ The project is built on top of the amazing multimodal large language model [LLaV
 Thanks for these great work!
 
 
-[//]: # (If you find our work useful for your research or applications, please cite using this BibTeX:)
+If you find our work useful for your research or applications, please cite using this BibTeX:
 
-[//]: # (```bibtex)
+```bibtex
 
-[//]: # (@misc{pi2024strengthening,)
+@article{qiu2026dpo,
+  title={DA-DPO: Cost-efficient Difficulty-aware Preference Optimization for Reducing MLLM Hallucinations},
+  author={Qiu, Longtian and Ning, Shan and Zhang, Chuyu and Sun, Jiaxuan and He, Xuming},
+  journal={arXiv preprint arXiv:2601.00623},
+  year={2026}
+}
 
-[//]: # (      title={Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization},)
-
-[//]: # (      author={Renjie Pi and Tianyang Han and Wei Xiong and Jipeng Zhang and Runtao Liu and Rui Pan and Tong Zhang},)
-
-[//]: # (      year={2024},)
-
-[//]: # (      eprint={2403.08730},)
-
-[//]: # (      archivePrefix={arXiv},)
-
-[//]: # (      primaryClass={cs.CL})
-
-[//]: # (})
-
-[//]: # (```)
+```
