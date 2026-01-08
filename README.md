@@ -9,7 +9,8 @@
 <br></br>
 
 
-This repository contains the reference code for the paper [NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimatio](https://arxiv.org/abs/2510.21122).
+This repository contains the reference code for the paper [DA-DPO: Cost-efficient Difficulty-aware Preference Optimization for Reducing MLLM Hallucinations
+](https://arxiv.org/abs/2601.00623v1).
 
 [🎯 Project web page](https://artanic30.github.io/project_pages/DA-DPO/) |
 
