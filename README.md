@@ -16,7 +16,7 @@ This repository contains the reference code for the paper [DA-DPO: Cost-efficien
 
 [Paper](https://arxiv.org/abs/2601.00623) |
 
-[//]: # ([🤗 HuggingFace Model]&#40;https://huggingface.co/collections/Artanic30/noisygrpo&#41; |)
+[🤗 HuggingFace Model](https://huggingface.co/collections/Artanic30/da-dpo) |
 
 
 ## Install Packages
